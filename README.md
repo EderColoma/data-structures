@@ -5,3 +5,5 @@
 ![Maven Badge](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
 
 Study on data structures and its usages.
+
+:heavy_check_mark: Stack
